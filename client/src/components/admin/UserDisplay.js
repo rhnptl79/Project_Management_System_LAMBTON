@@ -168,11 +168,7 @@ const UserDisplay = ({
           />
         </div>
 
-        <input
-          type="submit"
-          value="Create Project"
-          className="btn btn-primary"
-        />
+        <input type="submit" value="Create User" className="btn btn-primary" />
         <Link to="/dashboard" className="btn btn-primary my-1">
           Go back
         </Link>
